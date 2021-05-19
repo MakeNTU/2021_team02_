@@ -1,0 +1,12 @@
+{
+  "additionalFiles": "..,..,..,..,..,..,..,..,..",
+  "builtInLibrariesFolders": "C:\\Program Files (x86)\\Arduino\\libraries",
+  "builtInToolsFolders": "C:\\Program Files (x86)\\Arduino\\tools-builder,C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr,C:\\Users\\cmsma\\AppData\\Local\\Arduino15\\packages",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "build.path=D:\\文件\\MakeNtu\\output,build.warn_data_percentage=75,runtime.tools.CMSIS.path=C:\\Users\\cmsma\\AppData\\Local\\Arduino15\\packages\\STMicroelectronics\\tools\\CMSIS\\5.7.0,runtime.tools.CMSIS-5.7.0.path=C:\\Users\\cmsma\\AppData\\Local\\Arduino15\\packages\\STMicroelectronics\\tools\\CMSIS\\5.7.0,runtime.tools.xpack-arm-none-eabi-gcc.path=C:\\Users\\cmsma\\AppData\\Local\\Arduino15\\packages\\STMicroelectronics\\tools\\xpack-arm-none-eabi-gcc\\9.3.1-1.3,runtime.tools.xpack-arm-none-eabi-gcc-9.3.1-1.3.path=C:\\Users\\cmsma\\AppData\\Local\\Arduino15\\packages\\STMicroelectronics\\tools\\xpack-arm-none-eabi-gcc\\9.3.1-1.3,runtime.tools.STM32Tools.path=C:\\Users\\cmsma\\AppData\\Local\\Arduino15\\packages\\STMicroelectronics\\tools\\STM32Tools\\2.0.0,runtime.tools.STM32Tools-2.0.0.path=C:\\Users\\cmsma\\AppData\\Local\\Arduino15\\packages\\STMicroelectronics\\tools\\STM32Tools\\2.0.0",
+  "fqbn": "STMicroelectronics:stm32:GenF1:pnum=BLUEPILL_F103C8,upload_method=serialMethod,xserial=generic,usb=none,xusb=FS,opt=osstd,rtlib=nano",
+  "hardwareFolders": "C:\\Program Files (x86)\\Arduino\\hardware,C:\\Users\\cmsma\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "D:\\文件\\Arduino\\libraries",
+  "runtime.ide.version": "10813",
+  "sketchLocation": "d:\\文件\\MakeNtu\\STM32Main\\STM32Main.ino"
+}

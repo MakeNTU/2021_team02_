@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "COM9",
+    "sketch": "ArduinoMain.ino",
+    "output": "D:\\文件\\Arduino\\ArduinoOutput"
+}

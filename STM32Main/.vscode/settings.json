@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "stddef.h": "c",
+        "queue": "c",
+        "istream": "c",
+        "ostream": "c",
+        "*.tcc": "c",
+        "servo.h": "c",
+        "array": "c",
+        "deque": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "functional": "c",
+        "iterator": "c",
+        "memory_resource": "c",
+        "optional": "c",
+        "fstream": "c",
+        "memory": "c",
+        "numeric": "c",
+        "sstream": "c",
+        "streambuf": "c",
+        "tuple": "c",
+        "utility": "c"
+    }
+}
